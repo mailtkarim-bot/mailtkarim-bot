@@ -104,7 +104,7 @@ I build systems that **think, execute, and protect themselves**.
 | | |
 |---|---|
 | **MBA — Master of Business Administration** | Sorbonne University, Paris |
-| **Structural / Civil Engineering** | [Ton école d'ingénieurs] |
+| **Structural / Civil Engineering** | 
 | **Executive Director — Real Estate** | 20 Years Leading Development & Asset Management |
 
 ---
