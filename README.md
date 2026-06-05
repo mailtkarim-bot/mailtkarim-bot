@@ -1,16 +1,7 @@
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Solidity-0.8.20-363636?logo=solidity&logoColor=white" alt="Solidity"&gt;
-  &lt;img src="https://img.shields.io/badge/Foundry-Tested-00B4D8?logo=ethereum&logoColor=white" alt="Foundry"&gt;
-  &lt;img src="https://img.shields.io/badge/RWA-Specialist-2ECC71" alt="RWA"&gt;
-  &lt;img src="https://img.shields.io/badge/Automation-Engineer-FF6B6B" alt="Automation"&gt;
-&lt;/p&gt;
+# Steph Rayan
 
-&lt;h1 align="center"&gt;Steph Rayan&lt;/h1&gt;
-
-&lt;p align="center"&gt;
-  &lt;b&gt;From Building Skyscrapers to Building Smart Contracts&lt;/b&gt;&lt;br&gt;
-  &lt;i&gt;Executive Director · Engineer · MBA Sorbonne · Web3 Architect&lt;/i&gt;
-&lt;/p&gt;
+**RWA Architect | Solidity Developer | Automation Engineer**
+*Executive Director · Engineer · MBA Sorbonne · Web3 Architect*
 
 ---
 
@@ -24,7 +15,7 @@ Then I asked a dangerous question: *What if the assets I spent decades managing 
 
 So I went back to school. Not metaphorically — literally. I earned my **MBA from Sorbonne University, Paris**. I learned to speak the language of capital, strategy, and institutional trust. And then I learned to speak the language of **Solidity, Foundry, and on-chain automation**.
 
-Today, I am not a junior developer hoping to break in.  
+Today, I am not a junior developer hoping to break in.
 I am a **senior executive who chose to code**.
 
 ---
@@ -113,17 +104,17 @@ I build systems that **think, execute, and protect themselves**.
 | | |
 |---|---|
 | **MBA — Master of Business Administration** | Sorbonne University, Paris |
-| **Structural / Civil Engineering** |
+| **Structural / Civil Engineering** | [Ton école d'ingénieurs] |
 | **Executive Director — Real Estate** | 20 Years Leading Development & Asset Management |
 
 ---
 
 ## 🌍 Vision
 
-The next trillion dollars in crypto will not come from speculation.  
+The next trillion dollars in crypto will not come from speculation.
 They will come from **real assets, properly tokenized, automatically governed, and institutionally trusted**.
 
-I am not here to follow trends.  
+I am not here to follow trends.
 I am here to **build the infrastructure** that makes RWA inevitable.
 
 &gt; *"I spent 20 years learning how the world builds wealth. Now I am teaching the blockchain to do it better."*
@@ -138,10 +129,6 @@ I am here to **build the infrastructure** that makes RWA inevitable.
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;i&gt;Tokenizing reality. Automating trust. Engineering the future.&lt;/i&gt;
-&lt;/p&gt;
+*Tokenizing reality. Automating trust. Engineering the future.*
 
-&lt;p align="center"&gt;
-  ⭐ &lt;i&gt;Star my repos if the vision resonates. Fork if you want to build together.&lt;/i&gt;
-&lt;/p&gt;
+⭐ *Star my repos if the vision resonates. Fork if you want to build together.*
