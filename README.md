@@ -179,6 +179,34 @@ Discord alert sent → Google Sheet updated → Telegram bot notified.
 
 ---
 
+## 💼 How I Work — Freelance Only
+
+> **I do not take full-time roles. I deliver scoped projects with clear deliverables, fixed timelines, and transparent pricing.**
+
+### Engagement Models
+
+| Model | Best For | Pricing | Timeline |
+|:---:|:---|:---|:---|
+| **🚀 Setup Fee** | AI Voice Agents, n8n packs, automation toolkits | $1,500–5,000 fixed | 3–7 days |
+| **📋 Project-Based** | Smart contract development, RWA architecture, DePIN MVP | $2,000–8,000 fixed | 2–6 weeks |
+| **🔧 Pre-Audit Review** | Solidity hardening, security scan, invariant testing | $500–1,500 per contract | 3–10 days |
+| **🔄 Monthly Retainer** | Maintenance, monitoring, prompt tuning, workflow updates | $500–2,000/mo | Ongoing |
+
+### What You Get
+- ✅ **Fixed scope, fixed price** — No surprise invoices. Scope is defined upfront in writing.
+- ✅ **Source code + documentation** — You own the repo. I hand over clean code, README, and deployment guide.
+- ✅ **30-day warranty** — Bugs fixed free. After 30 days, hourly or retainer.
+- ✅ **No lock-in** — Client pays their own Vapi/Twilio/Google Cloud. I configure, you own the accounts.
+- ✅ **Async-first** — Sun–Thu active. Fri–Sat async. Emergency Slack/Telegram for critical issues.
+
+### How to Start
+1. **Book a 15-min scoping call** — Tell me the problem, I tell you if I can solve it and how.
+2. **Receive a scoped proposal** — Deliverables, timeline, price, stack. No fluff.
+3. **50% upfront, 50% on delivery** — Standard terms. Escrow possible for first project.
+4. **Handover + training call** — I walk you through the system. You operate it, I move to the next client.
+
+---
+
 ## 🌍 Where I Operate
 
 <div align="center">
