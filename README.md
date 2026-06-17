@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=I+build+hybrid+systems+at+the+intersection+of+Web3+and+AI;I+tokenize+real-world+assets+for+institutional+liquidity;I+orchestrate+AI+voice+agents+that+handle+midnight+calls;I+harden+Solidity+contracts+before+they+reach+the+auditor;I+automate+workflows+that+connect+on-chain+logic+to+real+business)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=I+build+hybrid+systems+at+the+intersection+of+Web3+and+AI;I+learn+by+shipping+production-grade+portfolio+projects;I+tokenize+real-world+assets+as+an+aspiring+architect;I+orchestrate+AI+voice+agents+for+real+SME+clients;I+harden+Solidity+contracts+to+pre-audit+standards)](https://git.io/typing-svg)
 
 </div>
 
@@ -48,7 +48,7 @@ Professional auditor receives clean code. 40% faster. 60% cheaper.
 | **Rate** | $500–1,500 per contract (pre-audit review) |
 
 ### 🏙️ RWA Tokenization Engine
-*Institutional-grade real-world asset platform — credibility catalyst, not freelance product.*
+*Educational portfolio project — ERC-3643 T-REX implementation.*
 
 ```
 Physical asset → ERC-3643 T-REX token → KYC/AML gated → 
@@ -59,11 +59,11 @@ Oracle-validated pricing → Cross-chain settlement → Institutional liquidity.
 |:---|:---|
 | **Stack** | Solidity · Foundry · OpenZeppelin · Chainlink Oracles · CCIP |
 | **Standard** | ERC-3643 T-REX (permissioned security tokens) |
-| **Use** | **Portfolio credibility** for institutional RWA deals — not sold on Upwork. |
+| **Status** | **Educational portfolio project.** Demonstrates understanding of permissioned tokens, KYC hooks, and oracle patterns. Pre-production — requires professional audit before mainnet deployment. |
 | **Repo** | [github.com/mailtkarim-bot/Dubai-Real-Estate-Token-V3](https://github.com/mailtkarim-bot/Dubai-Real-Estate-Token-V3) |
 
 ### 🤖 AI Voice Automation
-*48-hour deployment for SMEs — the hottest freelance niche of 2026.*
+*Freelance toolkit — ready for client customization.*
 
 ```
 Patient calls at 2 AM → Vapi AI answers in Arabic → 
@@ -75,6 +75,7 @@ Zero humans. Zero missed calls. Zero friction.
 |:---|:---|
 | **Stack** | FastAPI + Vapi + Twilio + Google Calendar API |
 | **Model** | **$2,500 one-time setup** + client pays consumption directly |
+| **Status** | **Freelance toolkit.** Backend tested locally — requires Twilio/Vapi setup for production. See demo video [Loom link]. |
 | **Target** | Clinics · HVAC · Dental · Legal — any service business losing after-hours calls |
 | **Repo** | [github.com/mailtkarim-bot/AI_Receptionist_Pro](https://github.com/mailtkarim-bot/AI_Receptionist_Pro) |
 
@@ -120,6 +121,32 @@ Discord alert sent → Google Sheet updated → Telegram bot notified.
 | **Stack** | n8n · Ethers.js · The Graph · Discord/Telegram APIs |
 | **Model** | Open-source starter pack + **$2,000–5,000 customization** per client |
 | **Use** | Whale alerts · Token listing notifications · Gas fee reporting · DAO treasury tracking |
+
+---
+
+## 🧠 What I Learned
+
+> *"I don't claim to be an expert. I claim to be a fast learner who ships."*
+
+### Building Dubai Real Estate Token V3 taught me:
+- **UUPS proxy patterns** — why upgradeability matters for institutional RWA, and how to implement it with OpenZeppelin
+- **ERC-3643 T-REX compliance** — the difference between a standard ERC-20 and a permissioned security token with KYC/AML hooks
+- **Oracle integration** — how Chainlink price feeds bridge off-chain real estate valuation to on-chain logic
+- **Foundry invariant testing** — writing properties that must hold true across every possible state transition, not just unit tests
+- **The gap between "portfolio code" and "production code"** — why professional audit, formal verification, and legal structuring are non-negotiable for institutional RWA
+
+### Building AI Receptionist Pro taught me:
+- **Webhook architecture** — how to design HMAC-signed endpoints that verify every request cryptographically
+- **OAuth 2.0 per client** — why each client needs their own Google Cloud project, not a shared one
+- **Voice AI orchestration** — the difference between STT (speech-to-text), LLM reasoning, and TTS (text-to-speech) in a real-time pipeline
+- **Freelance business model** — why "setup fee + client pays consumption" beats SaaS for a solo developer
+- **The gap between "local backend" and "production system"** — why Render free tier sleeps, why you need monitoring, and why a 2-minute Loom demo closes more deals than a 50-page README
+
+### Building Solidity Security Toolkit taught me:
+- **Static analysis with Slither** — how to detect reentrancy, unchecked transfers, and access control flaws before human review
+- **Fuzzing with Echidna** — why property-based testing finds bugs that unit tests never catch
+- **CI/CD for smart contracts** — automating lint, test, and security scan on every git push
+- **The gap between "pre-audit" and "audit"** — I can harden code, but I cannot sign off on it. Only a certified auditor can. My role is to make their job faster and cheaper.
 
 ---
 
@@ -190,4 +217,3 @@ Discord alert sent → Google Sheet updated → Telegram bot notified.
 *"The future belongs to the hybrid developer — the one who doesn't choose between Web3 and AI, but architects the bridge between them."*
 
 </div>
-
