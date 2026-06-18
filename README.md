@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000428,50:004e92,100:00d4ff&amp;height=200&amp;section=header&amp;text=Steph%20Rayan&amp;fontSize=60&amp;fontColor=00f0ff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Web3%20%2B%20AI%20Integration%20Developer%20%C2%B7%20RWA%20%C2%B7%20Voice%20Agents%20%C2%B7%20Automation&amp;descSize=18&amp;descAlignY=55&amp;descColor=00d4ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000428,50:004e92,100:00d4ff&amp;height=200&amp;section=header&amp;text=Steph%20Rayan&amp;fontSize=60&amp;fontColor=00f0ff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Pre-Audit%20Preparation%20Specialist%20%C2%B7%20Smart%20Contract%20Hardening%20%C2%B7%20AI%20Voice%20Automation%20%C2%B7%20RWA%20Tokenization&amp;descSize=18&amp;descAlignY=55&amp;descColor=00d4ff"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=I+build+hybrid+systems+at+the+intersection+of+Web3+and+AI;I+learn+by+shipping+production-grade+portfolio+projects;I+tokenize+real-world+assets+as+an+aspiring+architect;I+orchestrate+AI+voice+agents+for+real+SME+clients;I+harden+Solidity+contracts+to+pre-audit+standards)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=I+prepare+smart+contracts+for+professional+security+audit;I+harden+Solidity+code+with+automated+scanning+and+testing;I+deliver+clean%2C+documented%2C+test-covered+dossiers+ready+for+review;I+build+AI+voice+agents+that+book+appointments+and+send+confirmations;I+tokenize+real-world+assets+with+institutional-grade+standards)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,21 +31,25 @@
 
 ## 🏗️ Signature Builds
 
-### 🔐 Solidity Security — Pre-Audit Hardening
-*I don't audit. I write code that survives the audit before it reaches the auditor.*
+### 🔐 Smart Contract Pre-Audit Preparation
+*I don't audit. I prepare the dossier so the auditor works 2× faster and bills 40% less.*
 
 ```
-Spec → Foundry tests (≥95% coverage) → Slither static analysis → 
-Echidna fuzzing → Invariant proofs → Hardened contract → 
-Professional auditor receives clean code. 40% faster. 60% cheaper.
+Raw contract → Slither static scan → Echidna fuzzing → 
+Automated findings corrected → Invariant tests added → 
+NatSpec documentation → ≥95% test coverage → 
+Structured dossier delivered to the security audit firm.
 ```
 
 | | |
 |:---|:---|
 | **Stack** | Solidity · Foundry · Echidna · Slither · Mythril |
 | **Standards** | OWASP Smart Contract Top 10 2026 · Checks-Effects-Interactions · Pull-over-Push |
-| **Position** | **Security-first developer**, not auditor. I close the gap between dev and audit. |
-| **Rate** | $500–1,500 per contract (pre-audit review) |
+| **Position** | **Pre-audit preparation specialist**, not auditor. I close the gap between development and professional security review. |
+| **Rate** | $1,500–3,000 per contract (pre-audit hardening + dossier preparation) |
+
+**⚠️ Limitation of Responsibility:**
+This service delivers hardened, tested, and documented code **ready for professional audit**. It does **not** replace a certified security audit. The client remains obligated to engage a licensed audit firm before any mainnet deployment. I assume no liability for vulnerabilities undetected by automated tools or for deployment without independent human review.
 
 ### 🏙️ RWA Tokenization Engine
 *Educational portfolio project — ERC-3643 T-REX implementation.*
@@ -146,7 +150,7 @@ Discord alert sent → Google Sheet updated → Telegram bot notified.
 - **Static analysis with Slither** — how to detect reentrancy, unchecked transfers, and access control flaws before human review
 - **Fuzzing with Echidna** — why property-based testing finds bugs that unit tests never catch
 - **CI/CD for smart contracts** — automating lint, test, and security scan on every git push
-- **The gap between "pre-audit" and "audit"** — I can harden code, but I cannot sign off on it. Only a certified auditor can. My role is to make their job faster and cheaper.
+- **The gap between "pre-audit" and "audit"** — I can harden code and prepare the dossier, but I cannot sign off on it. Only a certified auditor can. My role is to make their job faster and cheaper.
 
 ---
 
@@ -179,34 +183,6 @@ Discord alert sent → Google Sheet updated → Telegram bot notified.
 
 ---
 
-## 💼 How I Work — Freelance Only
-
-> **I do not take full-time roles. I deliver scoped projects with clear deliverables, fixed timelines, and transparent pricing.**
-
-### Engagement Models
-
-| Model | Best For | Pricing | Timeline |
-|:---:|:---|:---|:---|
-| **🚀 Setup Fee** | AI Voice Agents, n8n packs, automation toolkits | $1,500–5,000 fixed | 3–7 days |
-| **📋 Project-Based** | Smart contract development, RWA architecture, DePIN MVP | $2,000–8,000 fixed | 2–6 weeks |
-| **🔧 Pre-Audit Review** | Solidity hardening, security scan, invariant testing | $500–1,500 per contract | 3–10 days |
-| **🔄 Monthly Retainer** | Maintenance, monitoring, prompt tuning, workflow updates | $500–2,000/mo | Ongoing |
-
-### What You Get
-- ✅ **Fixed scope, fixed price** — No surprise invoices. Scope is defined upfront in writing.
-- ✅ **Source code + documentation** — You own the repo. I hand over clean code, README, and deployment guide.
-- ✅ **30-day warranty** — Bugs fixed free. After 30 days, hourly or retainer.
-- ✅ **No lock-in** — Client pays their own Vapi/Twilio/Google Cloud. I configure, you own the accounts.
-- ✅ **Async-first** — Sun–Thu active. Fri–Sat async. Emergency Slack/Telegram for critical issues.
-
-### How to Start
-1. **Book a 15-min scoping call** — Tell me the problem, I tell you if I can solve it and how.
-2. **Receive a scoped proposal** — Deliverables, timeline, price, stack. No fluff.
-3. **50% upfront, 50% on delivery** — Standard terms. Escrow possible for first project.
-4. **Handover + training call** — I walk you through the system. You operate it, I move to the next client.
-
----
-
 ## 🌍 Where I Operate
 
 <div align="center">
@@ -222,7 +198,7 @@ Discord alert sent → Google Sheet updated → Telegram bot notified.
 
 ## 📡 Connect
 
-**For Solidity Pre-Audit Hardening:** $500–1,500 per contract — Slither + Echidna + Foundry  
+**For Smart Contract Pre-Audit Preparation:** $1,500–3,000 per contract — Slither + Echidna + Foundry + structured dossier  
 **For RWA Architecture:** End-to-end from smart contract to regulatory compliance — deal-scoped  
 **For AI Voice Automation:** $2,500 setup + $100/hr custom modifications  
 **For Agentic Systems & DePIN:** Architecture + MVP scoping — $2,000–8,000 per project  
